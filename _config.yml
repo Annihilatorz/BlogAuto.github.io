@@ -1,6 +1,6 @@
 # Site
-name: "Tyri"
-title: "Tyri Blog"
+name: "BlogAuto"
+title: "BlogAuto"
 description: "A Place for Recording Tyri's Daily Life."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.png'
@@ -15,14 +15,14 @@ timezone: Asia/Seoul
 
 # Authors
 authors:
-  tyri:
-    name: tyri
-    display_name: Tyri
+  BlogAuto:
+    name: BlogAuto
+    display_name: BlogAuto
     avatar: 'assets/images/avatar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: tyritarot@gmail.com
-    web: https://tyritarot.github.io
-    instagram: https://www.instagram.com/tyri_tarot/
+    email: ubc24@hotmail.com
+    web: https://blogAuto.github.io
+    instagram: https://www.instagram.com/BlogAuto/
     description: "To make every day a joyful and meaningful one with you, I'm sharing bits of my daily life."
 
 # Plugins
